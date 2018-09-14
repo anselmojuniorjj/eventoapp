@@ -1,3 +1,31 @@
 .margin {
-    margin : 5px 5px 0px 5px;
+    margin : 25px 5px 0px 5px;
+}
+
+.detalhesEvento {
+    box-shadow : 0px 0px 5px grey;
+    padding : 5px 0px 0px 20px;
+    margin: 0px 0px 15px 0px;
+}
+
+.formConvidado {
+    box-shadow : 0px 0px 5px grey;
+    padding : 20px 10px 20px 20px;
+    margin: 10px 0px 15px 0px;
+}
+
+.tableConvidado {
+    margin : 40px 0px 25px 0px;
+}
+
+.listaEvento {
+    box-shadow : 0px 0px 5px grey;
+    padding : 5px 15px 10px 20px;
+    margin-top : 20px;
+}
+
+.cadastroEvento {
+    box-shadow : 0px 0px 5px grey;
+    padding : 5px 15px 10px 20px;
+    margin-top : 20px;
 }
